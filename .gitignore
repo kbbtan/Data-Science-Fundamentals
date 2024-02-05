@@ -1,2 +1,5 @@
 */*_solution.py
 .DS_Store
+
+# ignore jupyter notebook checkpoints
+.ipynb_checkpoints
